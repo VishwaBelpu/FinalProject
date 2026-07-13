@@ -1,6 +1,6 @@
-from . import orders, order_details, recipes, sandwiches, resources
+from models import orders, order_details, recipes, sandwiches, resources
 
-from ..dependencies.database import engine
+from dependencies.database import engine
 
 
 def index():

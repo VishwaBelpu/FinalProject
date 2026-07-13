@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b76ce2b5-df0d-4ad1-923a-c3623057e10b" name="Changes" comment="" />
+    <list default="true" id="b76ce2b5-df0d-4ad1-923a-c3623057e10b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/order_details.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/order_details.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/model_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/model_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/order_details.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/order_details.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/recipes.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/recipes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/resources.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/resources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/sandwiches.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/sandwiches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/order_details.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/order_details.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/order_details.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/order_details.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/recipes.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/recipes.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../FinalProject\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,6 +39,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
@@ -29,10 +55,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/vishw/PycharmProjects/FinalProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

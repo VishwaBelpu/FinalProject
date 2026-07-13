@@ -1,8 +1,8 @@
 from datetime import datetime
 from typing import Optional
 from pydantic import BaseModel
-from .resources import Resource
-from .sandwiches import Sandwich
+from schemas.resources import Resource
+from schemas.sandwiches import Sandwich
 
 
 class RecipeBase(BaseModel):
