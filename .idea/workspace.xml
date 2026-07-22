@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76ce2b5-df0d-4ad1-923a-c3623057e10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/schemas/Cart_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Carts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Menu_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Order_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Payments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Promo_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Restaurants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Reviews.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/Users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/order_details.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/orders.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/recipes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/resources.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas/sandwiches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/Restaurants.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/Restaurants.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
